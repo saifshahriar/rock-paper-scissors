@@ -1,5 +1,5 @@
 # rock-paper-scissors
-A simple CLI based rock-paper-scissors game [![MADE_WITH_GO](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](../../) with interactive shell prompt.
+A simple <kbd> CLI  (Command Line Interface)</kbd>   based rock-paper-scissors game [![MADE_WITH_GO](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](../../) with interactive shell prompt.
 
 
 [![SIZE](https://badge-size.herokuapp.com/saifshahriar/rock-paper-scissors/main/src/main.go)](../../)
