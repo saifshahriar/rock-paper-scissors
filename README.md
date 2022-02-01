@@ -1,12 +1,12 @@
 # rock-paper-scissors
 A simple CLI based rock-paper-scissors game created in GO with interactive shell prompt.
-
+![GitHub Releases]
 <p align="center">
   <img src=https://media.giphy.com/media/2lYJ9vOYg2MqkVkAo6/giphy.gif>
 </p>
 
 # Download
-Grab a binary over at the [releases](releases) page or compile it yourself using the instructions below.
+Grab a binary over at the [releases](https://github.com/saifshahriar/rock-paper-scissors/releases/tag/rock-paper-scissors) page or compile it yourself using the instructions below.
 
 # Compiling
 The procedure is same for both Windows and Linux.
