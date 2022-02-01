@@ -1,9 +1,9 @@
 # rock-paper-scissors
-A simple CLI based rock-paper-scissors game [![MADE_WITH_GO](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)]() with interactive shell prompt.
+A simple CLI based rock-paper-scissors game [![MADE_WITH_GO](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](../../) with interactive shell prompt.
 
 
-[![DOWNLOAD_COUNT](https://img.shields.io/github/downloads/saifshahriar/rock-paper-scissors/total.svg)]() 
-[![LICENSES](https://img.shields.io/github/license/saifshahriar/rock-paper-scissors.svg)]()
+[![DOWNLOAD_COUNT](https://img.shields.io/github/downloads/saifshahriar/rock-paper-scissors/total.svg)](../../) 
+[![LICENSES](https://img.shields.io/github/license/saifshahriar/rock-paper-scissors.svg)](/LICENSE)
 
 
 <p align="center">
@@ -11,7 +11,7 @@ A simple CLI based rock-paper-scissors game [![MADE_WITH_GO](https://img.shields
 </p>
 
 # Language
-[![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+[![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](../../)
 
 # Download
 Grab a binary over at the [![RELEASES](https://img.shields.io/github/release/saifshahriar/rock-paper-scissors.svg)](https://github.com/saifshahriar/rock-paper-scissors/releases/tag/rock-paper-scissors) page or compile it yourself using the instructions below.
@@ -30,5 +30,5 @@ go build
 
 # Follow Me
 
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifshahriar)
 [![STACK OVERFLOW](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16733993/saif-shahriar)
