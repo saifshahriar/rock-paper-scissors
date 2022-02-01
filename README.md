@@ -3,7 +3,7 @@ A simple CLI based rock-paper-scissors game [![MADE_WITH_GO](https://img.shields
 
 
 [![SIZE](https://badge-size.herokuapp.com/saifshahriar/rock-paper-scissors/main/src/main.go)](../../)
-[![DOWNLOAD_COUNT](https://img.shields.io/github/downloads/saifshahriar/rock-paper-scissors/total.svg)](../../) 
+[![DOWNLOAD_COUNT](https://img.shields.io/github/downloads/saifshahriar/rock-paper-scissors/total.svg)](https://github.com/saifshahriar/rock-paper-scissors/releases/tag/rock-paper-scissors) 
 [![LICENSES](https://img.shields.io/github/license/saifshahriar/rock-paper-scissors.svg)](/LICENSE)
 
 
